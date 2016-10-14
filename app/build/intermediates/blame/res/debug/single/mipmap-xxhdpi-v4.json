@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\workspace\\FilterViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_order_down_normal.png",
+        "source": "F:\\workspace\\FilterViewDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_order_down_normal.png"
+    },
+    {
+        "merged": "F:\\workspace\\FilterViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "F:\\workspace\\FilterViewDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\workspace\\FilterViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_order_up_select.png",
+        "source": "F:\\workspace\\FilterViewDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_order_up_select.png"
+    },
+    {
+        "merged": "F:\\workspace\\FilterViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\bg_order_filter.png",
+        "source": "F:\\workspace\\FilterViewDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\bg_order_filter.png"
+    },
+    {
+        "merged": "F:\\workspace\\FilterViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_order_true.png",
+        "source": "F:\\workspace\\FilterViewDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_order_true.png"
+    },
+    {
+        "merged": "F:\\workspace\\FilterViewDemo\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_order_down_select.png",
+        "source": "F:\\workspace\\FilterViewDemo\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_order_down_select.png"
+    }
+]
